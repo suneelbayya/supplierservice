@@ -8,4 +8,5 @@ flatMap() - Transforms one source element to a flux of 1 to N elements. Use it w
 
 
 Two approaches to build RESTFUL APIs
+
 <img width="630" height="262" alt="image" src="https://github.com/user-attachments/assets/e54cd20b-1be1-4bcc-8861-86afe615bbf8" />
