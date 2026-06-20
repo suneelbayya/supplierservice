@@ -17,3 +17,10 @@ Two Blocking Points
 
 <img width="1637" height="710" alt="image" src="https://github.com/user-attachments/assets/a9faee9b-985d-4296-9e17-48c4b3f7dda0" />
 
+
+WebClient:
+It is a reactive non-blocking Rest Client
+It uses a functional style API
+It allows the application to interact with other services in a non-blocking fashion
+It is auto configured into the application by Spring Boot
+
