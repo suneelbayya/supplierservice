@@ -10,3 +10,10 @@ flatMap() - Transforms one source element to a flux of 1 to N elements. Use it w
 Two approaches to build RESTFUL APIs
 
 <img width="630" height="262" alt="image" src="https://github.com/user-attachments/assets/e54cd20b-1be1-4bcc-8861-86afe615bbf8" />
+
+Two Blocking Points
+1. Netty Server: Npn-blocking server which play a key role in enabling non-blocking transport between the client and server
+2. Code where it is interacting with external resources
+
+<img width="1637" height="710" alt="image" src="https://github.com/user-attachments/assets/a9faee9b-985d-4296-9e17-48c4b3f7dda0" />
+
